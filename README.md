@@ -1,0 +1,2 @@
+# latihan
+membuat web sederhana
